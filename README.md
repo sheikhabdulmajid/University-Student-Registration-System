@@ -7,7 +7,7 @@ Approach:
 
 Created different variables acossiated with student records through class function in C++
 
-Used the switch funciton to allow the users to run the program according to theri choices
+Used the switch funciton to allow the users to run the program according to their choices
 
 Stored all the student records in the files by making use of the fstream library in C++
 
